@@ -1,7 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Homepage / Main Calculator Page -->
   <url>
     <loc>https://mdsuhaib7473-boop.github.io/CalcHubPro/</loc>
+    <lastmod>2025-11-07</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  
+  <!-- Basic Calculator -->
+  <url>
+    <loc>https://mdsuhaib7473-boop.github.io/CalcHubPro/#basic</loc>
+    <lastmod>2025-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Scientific Calculator -->
+  <url>
+    <loc>https://mdsuhaib7473-boop.github.io/CalcHubPro/#scientific</loc>
+    <lastmod>2025-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- BMI Calculator -->
+  <url>
+    <loc>https://mdsuhaib7473-boop.github.io/CalcHubPro/#bmi</loc>
+    <lastmod>2025-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Loan Calculator -->
+  <url>
+    <loc>https://mdsuhaib7473-boop.github.io/CalcHubPro/#loan</loc>
+    <lastmod>2025-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Percentage Calculator -->
+  <url>
+    <loc>https://mdsuhaib7473-boop.github.io/CalcHubPro/#percentage</loc>
+    <lastmod>2025-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Age Calculator -->
+  <url>
+    <loc>https://mdsuhaib7473-boop.github.io/CalcHubPro/#age</loc>
+    <lastmod>2025-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Unit Converter -->
+  <url>
+    <loc>https://mdsuhaib7473-boop.github.io/CalcHubPro/#unit</loc>
+    <lastmod>2025-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Tip Calculator -->
+  <url>
+    <loc>https://mdsuhaib7473-boop.github.io/CalcHubPro/#tip</loc>
+    <lastmod>2025-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Discount Calculator -->
+  <url>
+    <loc>https://mdsuhaib7473-boop.github.io/CalcHubPro/#discount</loc>
+    <lastmod>2025-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- GPA Calculator -->
+  <url>
+    <loc>https://mdsuhaib7473-boop.github.io/CalcHubPro/#gpa</loc>
+    <lastmod>2025-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://mdsuhaib7473-boop.github.io/CalcHubPro/#about</loc>
+    <lastmod>2025-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
 </urlset>
