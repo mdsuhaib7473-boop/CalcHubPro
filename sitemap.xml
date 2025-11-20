@@ -3,7 +3,7 @@
   
   <!-- Homepage / Main Calculator Page -->
   <url>
-    <loc>http://calchubpro.in/</loc>
+    <loc>https://calchubpro.in/</loc>
     <lastmod>2025-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -11,7 +11,7 @@
   
   <!-- Basic Calculator -->
   <url>
-    <loc>http://calchubpro.in/#basic</loc>
+    <loc>https://calchubpro.in/#basic</loc>
     <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -19,7 +19,7 @@
   
   <!-- Scientific Calculator -->
   <url>
-    <loc>http://calchubpro.in/#scientific</loc>
+    <loc>https://calchubpro.in/#scientific</loc>
     <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -27,7 +27,7 @@
   
   <!-- BMI Calculator -->
   <url>
-    <loc>http://calchubpro.in/#bmi</loc>
+    <loc>https://calchubpro.in/#bmi</loc>
     <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -35,7 +35,7 @@
   
   <!-- Loan Calculator -->
   <url>
-    <loc>http://calchubpro.in/#loan</loc>
+    <loc>https://calchubpro.in/#loan</loc>
     <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -43,7 +43,7 @@
   
   <!-- Percentage Calculator -->
   <url>
-    <loc>http://calchubpro.in/#percentage</loc>
+    <loc>https://calchubpro.in/#percentage</loc>
     <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -51,7 +51,7 @@
   
   <!-- Age Calculator -->
   <url>
-    <loc>http://calchubpro.in/#age</loc>
+    <loc>https://calchubpro.in/#age</loc>
     <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -59,7 +59,7 @@
   
   <!-- Unit Converter -->
   <url>
-    <loc>http://calchubpro.in/#unit</loc>
+    <loc>https://calchubpro.in/#unit</loc>
     <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -67,7 +67,7 @@
   
   <!-- Tip Calculator -->
   <url>
-    <loc>http://calchubpro.in/#tip</loc>
+    <loc>https://calchubpro.in/#tip</loc>
     <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -75,7 +75,7 @@
   
   <!-- Discount Calculator -->
   <url>
-    <loc>http://calchubpro.in/#discount</loc>
+    <loc>https://calchubpro.in/#discount</loc>
     <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -83,7 +83,7 @@
   
   <!-- GPA Calculator -->
   <url>
-    <loc>http://calchubpro.in/#gpa</loc>
+    <loc>https://calchubpro.in/#gpa</loc>
     <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -91,7 +91,7 @@
   
   <!-- About Page -->
   <url>
-    <loc>http://calchubpro.in/#about</loc>
+    <loc>https://calchubpro.in/#about</loc>
     <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
