@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: http://calchubpro.in/sitemap.xml
+Sitemap: https://calchubpro.in/sitemap.xml
